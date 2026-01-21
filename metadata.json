@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Anik AI: Portfolio 2035",
+  "description": "An ultra-futuristic holographic portfolio for Sahadatur Rahman Anik featuring a live Bangla-speaking AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
